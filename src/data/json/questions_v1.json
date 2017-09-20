@@ -1,0 +1,98 @@
+{
+  "preguntas": [
+    {
+      "tipo": 0,
+      "pregunta": "Para rebasar a otro automóvil...",
+      "opciones": [
+        {
+          "texto": "puedo invadir el camellón o banqueta (siempre y cuando no haya peatones cerca).",
+          "reaccion": "¡NUNCA!"
+        },
+        {
+          "texto": "tengo que hacerlo por la izquierda mientras él tenga su luz direccional izquierda encendida.",
+          "reaccion": "¡NUNCA!"
+        },
+        {
+          "texto": "debo observar las condiciones del camino y tráfico que están próximas.",
+          "reaccion": "¡BIEN!"
+        }
+      ],
+      "respuesta": {
+        "indice": 2,
+        "justificacion": "Antes de rebasar, observa las condiciones del camino y otros vehículos que pueden tomar tu carril. Nunca conduzcas fuera del pavimento. Usualmente, debes rebasar por la izquierda, pero puedes usar la derecha si dicho conductor está señalando una vuelta a la izquierda."
+      }
+    },
+    {
+      "tipo": 1,
+      "pregunta": {
+        "texto": "Esta señal advierte sobre...",
+        "señal": "Puente angosto"
+      },
+      "opciones": [
+        {
+          "texto": "la reducción de dos carriles a uno solo.",
+          "reaccion": ""
+        },
+        {
+          "texto": "una intersección de caminos.",
+          "reaccion": ""
+        },
+        {
+          "texto": "un puente angosto.",
+          "reaccion": ""
+        }
+      ],
+      "respuesta": {
+        "indice": 2
+      }
+    },
+    {
+      "tipo": 2,
+      "pregunta": "Grava suelta",
+      "opciones": [
+        "Grava suelta",
+        "Tolvanera",
+        "Niebla"
+      ],
+      "respuesta": {
+        "indice": 0
+      }
+    },
+    {
+      "tipo": 2,
+      "pregunta": "Prohibida la circulación de vehículos de carga",
+      "opciones": [
+        "Parada prohibida",
+        "Prohibida la circulación de vehículos de carga",
+        "Conserve su derecha"
+      ],
+      "respuesta": {
+        "indice": 1
+      }
+    },
+    {
+      "tipo": 1,
+      "pregunta": {
+        "texto": "Esta señal indica que...",
+        "señal": "Anchura libre restringida"
+      },
+      "opciones": [
+        {
+          "texto": "existen 5 carriles a 50 metros más adelante.",
+          "reaccion": ""
+        },
+        {
+          "texto": "a 5 km se encuentran dos caminos.",
+          "reaccion": ""
+        },
+        {
+          "texto": "la anchura máxima es de 5.50 metros.",
+          "reaccion": ""
+        }
+      ],
+      "respuesta": {
+        "indice": 2
+      }
+    }
+  ]
+}
